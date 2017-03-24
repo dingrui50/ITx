@@ -1,0 +1,63 @@
+html {
+    font-family: Microsoft YaHei, serif;
+    font-size: 62.5%;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+.wrap{
+	position:relative;
+	width: 100%;
+	max-width: 640px;
+	min-width: 320px;
+	margin: 0 auto;
+	background-color:#68cdd5;
+}
+.header{
+    padding-top: 2%;
+    padding-left: 2%;
+}
+.logo{
+	text-align: center;
+    padding-top: 10%;
+
+}
+.text{
+	padding: 18%;
+	width: 72%;
+	margin: 0 auto;
+	color: white;
+	line-height: 5.4rem;
+	font-size: 2.5rem;
+
+}
+.footer {
+    overflow: hidden;
+    padding-bottom: 10rem;
+    width: 72%;
+    margin: 0 auto;
+
+}
+.left{
+	text-align: center;
+	float: left;
+
+}
+.left p{
+	font-size: 2.4rem;
+    line-height: 5.4rem;
+    text-align: center;
+    color: #fff;
+}
+.right{
+	float: right;
+	text-align: center;
+}
+.right p{
+	font-size: 2.4rem;
+    line-height: 5.4rem;
+    text-align: center;
+    color: #fff;
+}
